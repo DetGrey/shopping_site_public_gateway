@@ -1,16 +1,5 @@
 # Public Gateway
-Håndterer registrerede produkter og brugernes indkøbskurve
-
-## Installation
-
-1. Clone dette repository: (NOT WORKING RIGHT NOW)
-
-```
-   git clone https://github.com/DetGrey/cart_service
-   cd cart_service
-   docker build -t cart_service .
-   docker run -it --rm -p 5000:5000 -v ${PWD}:/home/data cart_service
-```
+Håndterer registrerede produkter og brugernes indkøbskurve.
 
 ## API Endpoints
 
